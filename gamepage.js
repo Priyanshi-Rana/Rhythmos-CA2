@@ -59,16 +59,16 @@ var Songs =
 [
     ["./assets/Songs/Hindi_songs/Ae dil hai mushkil.mp3","./assets/Covers/Hindi_covers/ae dil hai mushkil - Cover.jpg","Ae Dil Hai Mushkil"],
     ["./assets/Songs/Hindi_songs/Galiyaan.mp3","./assets/Covers/Hindi_covers/Galiyan-Cover.jpg","Galiyan"],
-    ["./assets/Songs/Hindi_songs/tere Sang Yaara.mp3","./assets/Covers/Hindi_covers/tere sang yara - Cover.jpg","Tere Sang Yaara"],
+    ["./assets/Songs/Hindi_songs/tere Sang Yaara.mp3","./assets/Covers/Hindi_covers/tere sang yara - COVER.jpg","Tere Sang Yaara"],
     ["./assets/Songs/Hindi_songs/Saathiya.mp3","./assets/Covers/Hindi_covers/saathiya-Cover.jpg","Saathiya"],
-    ["./assets/Songs/Hindi_songs/ishqwalalove.mp3","./assets/Covers/Hindi_covers/ishq wala love - COVER.jpg","Ishq Wala Love"],
+    ["./assets/Songs/Hindi_songs/ishqwalalove.mp3","./assets/Covers/Hindi_covers/ishq wala love - Cover.jpg","Ishq Wala Love"],
     ["./assets/Songs/Hindi_songs/zara zara.mp3","./assets/Covers/Hindi_covers/Zara-Zara-Bahekta-Hai-Cover.jpg","Zara Zara"],
     ["./assets/Songs/Hindi_songs/Soch Na Sake.mp3","./assets/Covers/Hindi_covers/soch na sake - Cover.jpg","Soch Na Sake"],
     ["./assets/Songs/Hindi_songs/Khairiyat.mp3","./assets/Covers/Hindi_covers/khairiyat-Cover.jpg","Khairiyat"],
     ["./assets/Songs/Hindi_songs/Hasi ban gaya.mp3","./assets/Covers/Hindi_covers/hasi-Cover.jpg","Hasi"],
     ["./assets/Songs/Hindi_songs/gerua.mp3","./assets/Covers/Hindi_covers/gerua-cover.jpg","Gerua"],
     ["./assets/Songs/Hindi_songs/laalbindi.mp3","./assets/Covers/Hindi_covers/laal bindi - Cover.jpg","Laal Bindi"],
-    ["./assets/Songs/Hindi_songs/kesariya.mp3","./assets/Covers/Hindi_covers/kesariya-cover.jpg","Kesariya"],
+    ["./assets/Songs/Hindi_songs/kesariya.mp3","./assets/Covers/Hindi_covers/kesariya-Cover.jpg","Kesariya"],
     ["./assets/Songs/Hindi_songs/channa ve.mp3","./assets/Covers/Hindi_covers/Channa ve - Cover.jpg","Channa Ve"]
 ]
 
